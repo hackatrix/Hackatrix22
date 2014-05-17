@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
+    <string name="app_id">852552141439318</string>
+    <string name="app_name">smily</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo_text">Smily</string>
+    <string name="splash_title">Ayudanos a crear sonrisas!</string>
+
+    <!-- text content - login -->
+    <string name="txt_fb">Login with facebook</string>
+    <string name="inciando_sesion">Inciando Sesion</string>
+
+</resources>
+=======
     <string name="app_name">Smily</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
+>>>>>>> 5a4d2cc97694610ba33a67abf53c8df40f671883
